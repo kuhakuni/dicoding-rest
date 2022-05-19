@@ -1,0 +1,22 @@
+{
+  "name": "dicoding-rest",
+  "version": "1.0.0",
+  "description": "belajar rest api dengan dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuhakuni/dicoding-rest.git"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "kuhakuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuhakuni/dicoding-rest/issues"
+  },
+  "homepage": "https://github.com/kuhakuni/dicoding-rest#readme"
+}

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kuhakuni/dicoding-rest/issues"
   },
-  "homepage": "https://github.com/kuhakuni/dicoding-rest#readme"
+  "homepage": "https://github.com/kuhakuni/dicoding-rest#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

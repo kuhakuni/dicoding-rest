@@ -1,25 +1,26 @@
 {
-  "name": "dicoding-rest",
-  "version": "1.0.0",
-  "description": "belajar rest api dengan dicoding",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kuhakuni/dicoding-rest.git"
-  },
-  "keywords": [
-    "rest"
-  ],
-  "author": "kuhakuni",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kuhakuni/dicoding-rest/issues"
-  },
-  "homepage": "https://github.com/kuhakuni/dicoding-rest#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+	"name": "dicoding-rest",
+	"version": "1.0.0",
+	"description": "belajar rest api dengan dicoding",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kuhakuni/dicoding-rest.git"
+	},
+	"keywords": [
+		"rest"
+	],
+	"author": "kuhakuni",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kuhakuni/dicoding-rest/issues"
+	},
+	"homepage": "https://github.com/kuhakuni/dicoding-rest#readme",
+	"dependencies": {
+		"@types/node": "^17.0.42",
+		"lodash": "^4.17.21"
+	}
 }
